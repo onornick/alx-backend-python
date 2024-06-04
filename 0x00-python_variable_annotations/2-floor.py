@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-
 import math
-
 """
 This module contains one function which is floor
 """
